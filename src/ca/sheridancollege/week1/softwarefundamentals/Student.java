@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Joel George 
+ * @author Joel George -- add test commemt 
  */
 public class Student {
     
