@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author Joel George - 25 May 2020
+ * @author Joel George 
  */
 public class Student {
     
