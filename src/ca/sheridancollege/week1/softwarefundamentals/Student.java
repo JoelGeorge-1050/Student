@@ -8,6 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author Joel George -- add test commemt 
+ * date : june 1 2020
  */
 public class Student {
     
